@@ -3,7 +3,7 @@
 package meter
 
 import (
-	"github.com/datacratic/gorest/rest"
+	"github.com/RAttab/gorest/rest"
 
 	"strings"
 	"sync"

@@ -3,7 +3,7 @@
 package meter
 
 import (
-	"github.com/datacratic/goset"
+	"github.com/RAttab/goset"
 
 	"testing"
 )

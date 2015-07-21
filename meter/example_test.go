@@ -3,7 +3,7 @@
 package meter_test
 
 import (
-	"github.com/datacratic/gometer/meter"
+	"github.com/RAttab/gometer/meter"
 
 	"fmt"
 	"sort"

@@ -3,7 +3,7 @@
 package meter
 
 import (
-	"github.com/datacratic/goklog/klog"
+	"github.com/RAttab/goklog/klog"
 
 	"encoding/json"
 	"log"
