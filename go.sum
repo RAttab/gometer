@@ -1,0 +1,6 @@
+github.com/RAttab/goklog v0.0.0-20150721142115-a5cc2cf7806d h1:d2g1kliObGo7e6zDVg64OTbaZpdsALHs2bGqPjWh42g=
+github.com/RAttab/goklog v0.0.0-20150721142115-a5cc2cf7806d/go.mod h1:WoYt5UfkL1E5aMi7zuAhnJZVspUg7EodURCGEtPFH8c=
+github.com/RAttab/gorest v0.0.0-20150804184913-7c10f356725d h1:79j3MZ9DHExnoqyGPrbMZQnuDAQjRlZ8Fd2NGZeIaTU=
+github.com/RAttab/gorest v0.0.0-20150804184913-7c10f356725d/go.mod h1:K5BYapb6akG+POmlFEdRoHXooUNuz7qiNqk26Ui4Ttc=
+github.com/RAttab/goset v0.0.0-20150721142115-5798a3bfc390 h1:9nadUbCNj3iZNNaZR4yb0zz5PRqhIJFyHJA3llMwolw=
+github.com/RAttab/goset v0.0.0-20150721142115-5798a3bfc390/go.mod h1:GnBqxvr+sePRbPbuJouG06hEWpfORi9J0VIYEMHi7H8=
